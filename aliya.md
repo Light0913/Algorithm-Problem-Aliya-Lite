@@ -97,6 +97,11 @@ Aliya 和 Light_LE 两人约定在地球见面，但是宇宙空间浩瀚无垠�
 
 ## 说明/提示
 
+### 样例解释
+
+- 样例 #1 的一条合法路径为 $4 \rightarrow 2 \rightarrow 3 \rightarrow 1$；
+- 样例 #2 的一条合法路径为 $5 \rightarrow 4 \rightarrow 2 \rightarrow 3 \rightarrow 4 \rightarrow 2 \rightarrow 1$。
+
 ### 数据范围
 
 对于所有的测试数据，保证 $1 \le n \le 2 \times 10^5, 0 \le m \le  2 \times 10^5, 0 \le t \le 1000, 0 \le mt \le 7 \times 10^6, 0 \le w \le 10^6$，且 $1$ 号点和 $n$ 号点连通、不存在重边和自环。
