@@ -1,4 +1,4 @@
-出题人题解。
+这里提供一个常数是[验题人题解](https://www.luogu.com.cn/article/lim3luqq)一半的出题人题解。
 
 ## 分析
 
