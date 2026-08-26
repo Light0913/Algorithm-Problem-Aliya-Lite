@@ -1,4 +1,4 @@
-# T811188 彼方的她
+# T811188 [LBA-OI R5 C] 彼方的她
 
 ## 题目背景
 
@@ -113,7 +113,7 @@ Aliya 和 Light_LE 两人约定在地球见面，但是宇宙空间浩瀚无垠�
 ### 样例解释
 
 - 样例 #1 的一条合法路径为 $4 \rightarrow 2 \rightarrow 3 \rightarrow 1$；
-- 样例 #2 的一条合法路径为 $5 \rightarrow 4 \rightarrow 2 \rightarrow 3 \rightarrow 4 \rightarrow 2 \rightarrow 1$。
+- 样例 #2 的一条合法路径为 $5 \rightarrow 4 \rightarrow 2 \rightarrow 3 \rightarrow 4 \rightarrow 2 \rightarrow 1$；
 - 样例 #3 的解释被 Aliya 弄丢啦。
 
 ### 数据范围
@@ -122,6 +122,7 @@ Aliya 和 Light_LE 两人约定在地球见面，但是宇宙空间浩瀚无垠�
 
 ### 本题目采用子任务捆绑测试
 
+::cute-table{tuack}
 |子任务编号|$n \le$|$m \le$|$t \le$|特殊性质|分值|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Subtask #1|无限制|<|<|A|$4$|
